@@ -50,3 +50,107 @@ Nigerian banks compete aggressively for digital visibility, yet SEO performance 
 ---
 
 ## Repository Structure
+
+.
+├── README.md
+├── SEO_Dataset.csv
+├── seo_dashboard.pdf
+└── images/
+    ├── dashboard1.jpg
+    ├── dashboard2.jpg
+    └── dashboard3.jpg
+
+
+---
+
+## Tools & Technologies  
+- Python  
+- Excel  
+- SerpAPI  
+- Power BI  
+
+---
+
+## Key Findings  
+- **Coverage:** 36 tracked keywords; ~318K total monthly searches  
+- **Opportunity gap:** ~16.5K unclaimed keyword searches  
+- **Page 1 leader:** First Bank (24 Page 1 keywords; 92.31% visibility quality)  
+- **Quality vs quantity:**  
+  - First Bank: high quantity, high quality  
+  - GTBank, Zenith: high quality, concentrated rankings  
+  - Access Bank: high quantity, lower quality  
+- **SEO efficiency:**  
+  - Top: First Bank, GTBank, UBA, Zenith  
+  - Lower performers: Wema Bank, Union Bank, Stanbic IBTC  
+- **Business signal:** Higher SEO visibility aligns with higher profitability (correlation, not causation).
+
+---
+
+## Visual Outputs  
+- **Dashboard (PDF):** `seo_dashboard.pdf`  
+- **Snapshots:**  
+  - `images/dashboard1.jpg`  
+  - `images/dashboard2.jpg`  
+  - `images/dashboard3.jpg`
+
+---
+
+## Metric Definitions (Appendix)
+
+### 1. Ranking Tier Weights  
+To reflect the unequal value of SERP positions, rankings were grouped and weighted as follows:
+
+- **Page 1 (Top 3):** Weight = 1.00  
+- **Page 1 (Positions 4–10):** Weight = 0.70  
+- **Page 2:** Weight = 0.30  
+- **Page 3:** Weight = 0.10  
+
+---
+
+### 2. Visibility Quality (%)  
+Measures how strong a bank’s rankings are, not just how many keywords it ranks for.
+
+**Formula:**
+Visibility Quality (%) = ( Σ Weighted Keyword Positions ÷ Total Keywords Tracked ) × 100
+
+Higher values indicate stronger concentration in top SERP positions.
+
+---
+
+### 3. Visibility Share  
+Represents a bank’s proportion of total SEO visibility across all tracked keywords.
+
+**Formula:**
+Visibility Share = Bank Visibility Score ÷ Total Visibility Score (All Banks)
+
+---
+
+### 4. Estimated Monthly Clicks  
+Approximates organic traffic captured from search demand.
+
+**Formula:**
+Estimated Monthly Clicks = Visibility Share × Monthly Search Volume
+
+CTR effects are embedded in ranking-tier weights rather than modeled separately.
+
+---
+
+### 5. SEO Efficiency Score  
+Evaluates how effectively a bank converts keyword coverage into high-quality visibility.
+
+**Conceptual Definition:**
+
+SEO Efficiency ∝ Visibility Quality ÷ Keyword Quantity
+
+Banks with fewer keywords but stronger Page 1 dominance score higher than banks with broad but shallow coverage.
+
+---
+
+### Interpretation Notes  
+- Metrics prioritize **quality over volume**.  
+- Results reflect **competitive SEO positioning**, not guaranteed traffic or revenue.  
+- Financial comparisons are **associative**, not causal.
+
+
+
+
