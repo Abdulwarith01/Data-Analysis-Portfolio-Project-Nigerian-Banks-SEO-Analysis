@@ -97,13 +97,6 @@ Nigerian banks compete aggressively for digital visibility, yet SEO performance 
 [![Dashboard 3](SmartSelect_20251231_080830_Drive.jpg)](SmartSelect_20251231_080830_Drive.jpg)
 
 ---
-
-## Data Access
-
-**Engineered Dataset (CSV)**  
-[Download SEO_Dataset.csv](SEO_Dataset.csv)
----
-
 ## Data Access
 
 **Engineered Dataset (CSV)**  
