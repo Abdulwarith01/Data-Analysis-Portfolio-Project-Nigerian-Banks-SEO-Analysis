@@ -85,24 +85,23 @@ Nigerian banks compete aggressively for digital visibility, yet SEO performance 
 - **Business signal:** Higher SEO visibility aligns with higher profitability (correlation, not causation).
 
 ---
+## Visual Outputs
 
-## Visual Outputs  
-- **Dashboard (PDF):** `seo_dashboard.pdf`  
-- **Snapshots:**  
-  - `images/dashboard1.jpg`  
-  - `images/dashboard2.jpg`  
-  - `images/dashboard3.jpg`
+**Interactive Dashboard (PDF)**  
+[View SEO Dashboard](seo_dashboard.pdf)
 
-Visual Outputs
-Interactive Dashboard (PDF)
-View SEO Dashboard
-Dashboard Previews (Click to enlarge)
-�
-�
-�
-Data Access
-Engineered Dataset (CSV)
-Download SEO_Dataset.csv
+**Dashboard Previews (click to enlarge)**  
+
+[![Dashboard 1](images/dashboard1.jpg)](images/dashboard1.jpg)  
+[![Dashboard 2](images/dashboard2.jpg)](images/dashboard2.jpg)  
+[![Dashboard 3](images/dashboard3.jpg)](images/dashboard3.jpg)
+
+---
+
+## Data Access
+
+**Engineered Dataset (CSV)**  
+[Download SEO_Dataset.csv](SEO_Dataset.csv)
 ---
 
 ## Metric Definitions (Appendix)
