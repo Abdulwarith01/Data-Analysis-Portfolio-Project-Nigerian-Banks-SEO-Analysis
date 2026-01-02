@@ -93,6 +93,16 @@ Nigerian banks compete aggressively for digital visibility, yet SEO performance 
   - `images/dashboard2.jpg`  
   - `images/dashboard3.jpg`
 
+Visual Outputs
+Interactive Dashboard (PDF)
+View SEO Dashboard
+Dashboard Previews (Click to enlarge)
+�
+�
+�
+Data Access
+Engineered Dataset (CSV)
+Download SEO_Dataset.csv
 ---
 
 ## Metric Definitions (Appendix)
